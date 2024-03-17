@@ -1,5 +1,10 @@
 {
     "geode": "v1.0.0",
+    "gd": {
+		"win": "2.204",
+		"android": "2.205",
+		"mac": "2.200"
+	},
     "id": "endrei.mappacksremover",
     "name": "Map-Packs Be Gone!",
     "version": "v1.0.0",
